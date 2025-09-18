@@ -25,20 +25,23 @@ A motivated entrepreneur with proven experience launching and growing multiple b
 
 Currently pursuing **Entrepreneurship Management** at BYU while serving as a **Motor Transport Operator** in the Army National Guard. Military experience has instilled a strong work ethic, discipline, and leadership capabilities that drive my entrepreneurial success.
 
-## Current Ventures
+## Featured Projects
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-6 .card .m-2}
-### [Lokality](projects/project-1.qmd)
-**Founder** (May 2024 - Present)  
-Revolutionizing lead generation for home service companies through automated referral systems and targeted direct mail campaigns.
+::: {.g-col-12 .g-col-md-4 .card .m-2}
+### [Todo Calendar App](projects/project-1.qmd)
+A comprehensive task management application built with Streamlit featuring calendar integration, due date scheduling, and analytics dashboard.
 :::
 
-::: {.g-col-12 .g-col-md-6 .card .m-2}
-### [Qynix Shop](projects/project-2.qmd)  
-**Owner/Investor** (Feb 2025 - Present)  
-Online storefront selling wholesale products on Amazon, Walmart, and Home Depot platforms.
+::: {.g-col-12 .g-col-md-4 .card .m-2}
+### [Product Strategy Framework](projects/project-2.qmd)
+A systematic approach to product development and strategic planning with proven methodologies and templates.
+:::
+
+::: {.g-col-12 .g-col-md-4 .card .m-2}
+### [Lokality](projects/project-3.qmd)
+**Current SaaS Venture** - Revolutionizing lead generation for home service companies through automated referral systems and targeted direct mail campaigns.
 :::
 
 :::

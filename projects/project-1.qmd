@@ -1,161 +1,129 @@
 ---
-title: "Lokality - Revolutionizing Lead Generation for Home Services"
-date: "2024-05-01"
-categories: [SaaS, Entrepreneurship, Lead Generation, Marketing Technology]
+title: "Todo Calendar App - Task Management with Scheduling"
+date: "2024-09-17"
+categories: [Python, Streamlit, Product Management, Calendar Integration]
 ---
 
 ## Overview
 
-Lokality is an innovative SaaS platform that I founded to revolutionize lead generation for home service companies and contractors. Our platform provides automated referral leads through intelligent, targeted marketing campaigns, with a flagship feature that reimagines direct mail marketing for the digital age.
+The Todo Calendar App is a comprehensive task management application that combines traditional todo list functionality with advanced calendar scheduling features. Built with Streamlit and Python, this project demonstrates full-stack product development from concept to deployment.
 
-As the founder, I identified a critical gap in the home services market where contractors struggle with consistent lead generation and ineffective marketing strategies.
+The primary purpose of this app is to:
 
-**The core value proposition:**
-- **Automated Referral Leads** for home service contractors
-- **Hyper-local targeting** around active worksites
-- **Intelligent marketing campaigns** that maximize conversion potential
-- **Scalable lead generation** with minimal contractor input
-- **ROI optimization** through data-driven campaign management
+- **Schedule and organize tasks** with due date functionality and calendar visualization
+- **Provide multiple view modes** including list view, calendar view, and analytics dashboard  
+- **Enable smart filtering** with options like "Today", "This Week", "Overdue", and custom date ranges
+- **Deliver actionable insights** through completion statistics and productivity analytics
+- **Maintain data persistence** using JSON file storage for reliable task management
 
-## The Problem We're Solving
+## Key Features & Product Impact
 
-### Market Gap Analysis
-Home service contractors face consistent challenges:
-- **Inconsistent lead flow** affecting business predictability
-- **High cost** of traditional advertising methods
-- **Poor targeting** leading to low conversion rates
-- **Time-intensive** marketing efforts that distract from core business
-- **Limited visibility** in neighborhoods where they're actively working
+### 📅 **Calendar Integration**
+- Visual month calendar with color-coded task indicators
+- Due date scheduling with intuitive date picker widgets
+- Today highlighting and overdue task warnings
+- Task count indicators for quick workload assessment
 
-### Our Solution: Targeted Direct Mail Revolution
-We've reimagined direct mail marketing for the digital age, creating a hyper-local approach that ensures marketing reaches the most relevant audience at the perfect time.
+### 🎯 **Smart Organization**
+- Automatic categorization: Overdue → Due Today → Upcoming → No Due Date → Completed
+- Advanced filtering by date ranges and task status
+- Expandable completed tasks section to reduce interface clutter
+- Inline due date editing for quick task rescheduling
 
-## Key Features & Business Impact
+### 📊 **Analytics Dashboard**
+- Completion rate tracking with visual progress indicators
+- Task distribution charts showing status breakdown
+- Due date analytics with time-based categorization
+- Performance metrics for productivity insights
 
-### 🎯 **Hyper-Local Targeting**
-- Personalized mailers to potential customers near active worksites
-- Geographic precision ensuring relevant audience reach
-- Timing optimization based on project phases
-- Neighborhood visibility maximization
+## Live Application Demo
 
-### 📈 **Lead Generation Automation**
-- Automated customer identification and targeting
-- Streamlined campaign creation and deployment
-- Multi-channel marketing capability (mail, SMS, digital)
-- Performance tracking and optimization
+<div class="d-flex justify-content-center gap-3 my-4">
+  <!-- Local App button -->
+  <a class="btn btn-primary d-inline-flex align-items-center"
+     href="http://localhost:8501"
+     target="_blank" rel="noopener"
+     aria-label="Open live app">
+    <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
+    Open App (Local)
+  </a>
 
-### 💰 **ROI Optimization**
-- Increased local visibility around current jobs
-- High-quality leads from neighboring properties
-- Optimized direct mail campaigns for better conversion
-- Measurable return on marketing investment
+  <!-- GitHub Source button -->
+  <a class="btn btn-outline-dark d-inline-flex align-items-center"
+     href="https://github.com/kenyanbradshaw/todo-calendar-app"
+     target="_blank" rel="noopener"
+     aria-label="Open GitHub source">
+    <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
+    View Source Code
+  </a>
+</div>
 
-### 🔮 **Future Automation Vision**
-Developing comprehensive system to handle everything from customer identification to campaign deployment with minimal contractor input.
-
-## Business Model & Market Position
-
-### Target Market
-- **Primary**: Plumbers, electricians, landscapers, HVAC technicians
-- **Secondary**: General contractors, roofing specialists, pest control
-- **Geographic Focus**: Utah market with expansion plans
-
-### Competitive Advantages
-- **First-mover advantage** in hyper-local worksite marketing
-- **Founder's industry experience** from multiple service businesses
-- **Data-driven approach** to campaign optimization
-- **Scalable technology platform** for rapid market expansion
-
-## Development Journey & Milestones
-
-### Phase 1: Market Validation (May 2024 - Aug 2024)
-- Conducted extensive market research in Utah home services sector
-- Interviewed 50+ contractors to validate problem and solution fit
-- Developed MVP with core direct mail functionality
-- Established initial contractor partnerships
-
-### Phase 2: Product Development (Sep 2024 - Dec 2024)
-- Built scalable SaaS platform architecture
-- Integrated direct mail automation systems
-- Developed customer targeting algorithms
-- Created contractor dashboard and campaign management tools
-
-### Phase 3: Market Launch (Jan 2025 - Present)
-- Launched beta program with select contractor partners
-- Implemented feedback loop for continuous product improvement
-- Began scaling operations and customer acquisition
-- Developing partnership channels and referral programs
+*Note: The app is currently running locally. Screenshots and deployment options coming soon.*
 
 ## Technical Architecture
 
-**Platform Stack**: Modern SaaS architecture optimized for scalability
+**Framework/Stack**: Python + Streamlit + Pandas + JSON
 
-**Core Components**:
-- **Customer Targeting Engine**: Proprietary algorithms for audience identification
-- **Campaign Management System**: Automated workflow for mail campaigns
-- **Analytics Dashboard**: Real-time performance tracking and ROI measurement
-- **Integration Layer**: APIs for CRM and business management tools
+**Key Technical Decisions**:
+- **Streamlit** for rapid prototyping and interactive web interface
+- **Pandas** for data manipulation and chart generation  
+- **JSON** for lightweight, human-readable data persistence
+- **Python datetime** for robust date/time handling
+- **Modular design** with separate functions for data operations
 
-**Data Strategy**:
-- Geographic and demographic data analysis
-- Campaign performance optimization
-- Customer behavior tracking and insights
-- Predictive modeling for lead quality
+**Development Process**:
+- Iterative development using Claude Code for AI-assisted programming
+- User-centered design principles for intuitive interface
+- Responsive layout supporting mobile and desktop viewing
 
-## Business Metrics & Growth
+## Product Development Journey
 
-### Key Performance Indicators
-- **Customer Acquisition**: Growing contractor base month-over-month
-- **Lead Quality**: Measuring conversion rates and customer satisfaction
-- **Revenue Growth**: Recurring SaaS revenue with expansion opportunities
-- **Market Penetration**: Geographic expansion and vertical diversification
+### Initial Requirements
+Starting with a simple todo list application, the product evolved through user-centered design thinking:
 
-### Success Metrics
-- **400%+ improvement** in lead generation for early adopters
-- **Significant ROI increase** compared to traditional marketing methods
-- **High contractor retention** due to measurable business impact
-- **Scalable business model** with recurring revenue streams
+1. **Basic todo functionality** - Add, complete, delete tasks
+2. **Enhanced with scheduling** - Due dates and calendar integration  
+3. **Advanced analytics** - Productivity insights and completion tracking
+4. **Smart filtering** - Multiple views and date-based organization
 
-## Strategic Vision & Future Roadmap
+### Key Product Decisions
 
-### Short-term Goals (2025)
-- **Geographic Expansion**: Scale beyond Utah to neighboring states
-- **Feature Enhancement**: Add SMS and digital marketing channels
-- **Partnership Development**: Integrate with major contractor management platforms
-- **Team Growth**: Expand engineering and sales teams
+**Why Calendar Integration?**
+Research shows that visual scheduling significantly improves task completion rates. The calendar view provides immediate context about workload distribution and helps users identify potential bottlenecks.
 
-### Long-term Vision (2025-2027)
-- **National Market Presence**: Become leading lead generation platform for home services
-- **AI Integration**: Implement machine learning for campaign optimization
-- **Vertical Expansion**: Explore adjacent markets and service categories
-- **Exit Strategy**: Position for acquisition or strategic partnership
+**Why Multiple View Modes?**
+Different users have different workflow preferences. The three-view approach (List, Calendar, Analytics) caters to:
+- **List View**: Traditional task management users
+- **Calendar View**: Visual planners and schedule-oriented users  
+- **Analytics**: Data-driven users seeking productivity insights
 
-## Entrepreneurial Insights
+**Why Local JSON Storage?**
+For an MVP and demonstration purposes, JSON provides simplicity and transparency. Users can easily backup/transfer their data, and the approach demonstrates data modeling without external dependencies.
 
-### Key Learning Areas
-- **Market Research**: Importance of deep customer discovery and problem validation
-- **Product-Market Fit**: Iterative approach to feature development based on user feedback
-- **Sales & Marketing**: Direct sales experience with contractor community
-- **Operations**: Building scalable systems from day one
-- **Leadership**: Managing technical development while driving business growth
+## Future Roadmap
 
-### Challenges Overcome
-- **Technical Complexity**: Building robust targeting algorithms and automation
-- **Market Education**: Teaching contractors about new marketing approach
-- **Operational Scale**: Handling increasing campaign volume efficiently
-- **Competition**: Differentiating from traditional marketing service providers
+### Phase 2 Enhancements
+- **Cloud deployment** with Heroku/Railway for public access
+- **Data export** functionality (CSV, iCal integration)
+- **Recurring tasks** for habit tracking and regular commitments
+- **Task categorization** with tags and priority levels
 
-## Investment & Growth Potential
+### Phase 3 Advanced Features  
+- **Team collaboration** with shared task lists
+- **Integration APIs** with Google Calendar, Outlook
+- **Mobile app** using React Native or Flutter
+- **AI-powered** task prioritization and scheduling suggestions
 
-Lokality represents a significant opportunity in the $400+ billion home services market. Our innovative approach to lead generation addresses a persistent pain point with measurable ROI for contractors.
+## Lessons Learned
 
-**Investment Highlights:**
-- **Proven Founder**: Track record of successful business launches
-- **Market Validation**: Strong early customer adoption and retention
-- **Scalable Technology**: Platform built for rapid geographic expansion
-- **Large Market**: Massive addressable market with high growth potential
+### Product Management Insights
+- **Iterative development** allowed for rapid feature validation and user feedback integration
+- **Data-driven design** decisions improved user experience (e.g., color coding for overdue tasks)
+- **Modular architecture** enabled quick feature additions without breaking existing functionality
 
-**Contact for Partnership/Investment Opportunities:**
-info@lokality.io | LinkedIn: /in/kenyan-bradshaw-3342a0171
+### Technical Learning
+- **Streamlit's strengths** for rapid MVP development and interactive dashboards
+- **State management** challenges in web applications and solutions using session state
+- **Date/time handling** complexities and the importance of timezone considerations
 
-Lokality is building the future of lead generation for home service professionals, transforming how contractors grow their businesses through intelligent, targeted marketing.
+This project demonstrates the full product lifecycle from ideation through development to user testing, showcasing both technical implementation skills and product management thinking.
