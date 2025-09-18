@@ -1,28 +1,67 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Kenyan Bradshaw - Product Management Portfolio"
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Kenyan Bradshaw" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Kenyan Bradshaw</h1>
+<p class="lead">Product Manager & Technology Enthusiast</p>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/kenyan-bradshaw-3342a0171" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/kenyanbradshaw" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
+## About Me
+
+I'm a passionate product manager with experience in building innovative solutions and driving strategic initiatives. I enjoy working at the intersection of technology and user experience to create products that make a meaningful impact.
+
 ## Featured Projects
 
-::: {.g-col-12 .g-col-md-6 .card}
+::: {.grid}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+::: {.g-col-12 .g-col-md-6 .card .m-2}
+### [Todo Calendar App](projects/project-1.qmd)
+A comprehensive task management application built with Streamlit featuring calendar integration, due date scheduling, and analytics dashboard.
+:::
+
+::: {.g-col-12 .g-col-md-6 .card .m-2}
+### [Product Strategy Framework](projects/project-2.qmd)
+A systematic approach to product development and strategic planning with proven methodologies and templates.
+:::
+
+:::
+
+## Core Competencies
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+**Product Strategy**
+- Market analysis & competitive intelligence
+- Product roadmap development
+- Strategic planning & execution
+:::
+
+::: {.g-col-12 .g-col-md-4}
+**Technical Skills**
+- Python & Streamlit development
+- Data analysis & visualization
+- Agile methodologies
+:::
+
+::: {.g-col-12 .g-col-md-4}
+**Leadership**
+- Cross-functional team collaboration
+- Stakeholder management
+- Project coordination
+:::
 
 :::
 

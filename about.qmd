@@ -1,63 +1,107 @@
 ---
-title: "About Me"
+title: "About Kenyan Bradshaw"
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Kenyan Bradshaw" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Kenyan Bradshaw</h1>
+<p class="lead">Product Manager & Technology Enthusiast</p>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/kenyan-bradshaw-3342a0171" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/kenyanbradshaw" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
-## Background
+## Professional Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I'm a passionate product manager with a strong foundation in technology and user experience design. My journey combines analytical thinking with creative problem-solving to deliver products that make a meaningful impact on users' lives. I thrive in collaborative environments where I can bridge the gap between technical teams and business stakeholders.
 
-### Education
+My approach to product management centers on data-driven decision making, user-centric design, and agile methodologies. I believe in building products that not only meet business objectives but also genuinely improve the user experience.
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+### Core Expertise
 
-### Experience
+#### Product Strategy & Planning
+- Market research and competitive analysis
+- Product roadmap development and prioritization
+- Stakeholder alignment and communication
+- Go-to-market strategy execution
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Technical Product Management
+- Agile/Scrum methodologies
+- Technical requirements gathering
+- API design and integration planning
+- Development team collaboration
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+#### Data & Analytics
+- Product metrics and KPI definition
+- User behavior analysis
+- A/B testing and experimentation
+- Performance monitoring and optimization
 
-#### Another Position - Company Name
-*Dates*
+### Technical Skills
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+**Programming & Development**
+- Python (Streamlit, Pandas, Data Analysis)
+- SQL for data analysis and reporting
+- API integration and testing
+- Web technologies (HTML, CSS, JavaScript basics)
 
-### Skills & Interests
+**Product Management Tools**
+- Jira, Confluence, Asana for project management
+- Figma, Sketch for design collaboration
+- Google Analytics, Mixpanel for product analytics
+- Slack, Microsoft Teams for communication
 
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+**Data Analysis & Visualization**
+- Excel/Google Sheets for data manipulation
+- Tableau, Power BI for dashboard creation
+- Python libraries for data science
+- Statistical analysis and reporting
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+### Recent Projects
 
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+#### Todo Calendar Application
+Led the development of a comprehensive task management system featuring:
+- Calendar integration with due date scheduling
+- Advanced filtering and categorization
+- Analytics dashboard for productivity insights
+- Built using Python and Streamlit with JSON data persistence
+
+#### Product Strategy Frameworks
+Developed systematic approaches to product planning including:
+- Market analysis templates and methodologies
+- User research and personas development
+- Competitive intelligence frameworks
+- Product-market fit assessment tools
+
+### Interests & Values
+
+**Innovation & Technology**
+I'm passionate about emerging technologies and their potential to solve real-world problems. I enjoy exploring new frameworks, tools, and methodologies that can improve product development processes.
+
+**User Experience**
+I believe that great products start with understanding user needs. I'm committed to user-centered design principles and creating intuitive, accessible experiences.
+
+**Continuous Learning**
+The product management field is constantly evolving, and I'm dedicated to staying current with industry trends, best practices, and new tools through continuous learning and professional development.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm seeking opportunities to contribute to innovative product teams where I can:
+
+- Lead product strategy and roadmap development for impactful products
+- Work with cross-functional teams to deliver exceptional user experiences
+- Apply data-driven methodologies to drive product growth and optimization
+- Mentor and collaborate with talented designers, engineers, and product professionals
+
+I'm particularly interested in roles that combine strategic thinking with hands-on execution, where I can make a meaningful impact on both the product and the team culture.
+
+### Let's Connect
+
+I'm always interested in connecting with fellow product professionals, potential collaborators, or anyone passionate about building great products. Feel free to reach out via LinkedIn or check out my latest projects on GitHub.

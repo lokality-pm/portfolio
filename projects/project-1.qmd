@@ -1,54 +1,129 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code]
+title: "Todo Calendar App - Task Management with Scheduling"
+date: "2024-09-17"
+categories: [Python, Streamlit, Product Management, Calendar Integration]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+The Todo Calendar App is a comprehensive task management application that combines traditional todo list functionality with advanced calendar scheduling features. Built with Streamlit and Python, this project demonstrates full-stack product development from concept to deployment.
 
 The primary purpose of this app is to:
 
-- ....
-- ....
+- **Schedule and organize tasks** with due date functionality and calendar visualization
+- **Provide multiple view modes** including list view, calendar view, and analytics dashboard  
+- **Enable smart filtering** with options like "Today", "This Week", "Overdue", and custom date ranges
+- **Deliver actionable insights** through completion statistics and productivity analytics
+- **Maintain data persistence** using JSON file storage for reliable task management
 
-## Live Product Demo
+## Key Features & Product Impact
+
+### 📅 **Calendar Integration**
+- Visual month calendar with color-coded task indicators
+- Due date scheduling with intuitive date picker widgets
+- Today highlighting and overdue task warnings
+- Task count indicators for quick workload assessment
+
+### 🎯 **Smart Organization**
+- Automatic categorization: Overdue → Due Today → Upcoming → No Due Date → Completed
+- Advanced filtering by date ranges and task status
+- Expandable completed tasks section to reduce interface clutter
+- Inline due date editing for quick task rescheduling
+
+### 📊 **Analytics Dashboard**
+- Completion rate tracking with visual progress indicators
+- Task distribution charts showing status breakdown
+- Due date analytics with time-based categorization
+- Performance metrics for productivity insights
+
+## Live Application Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
-  <!-- Open App button -->
+  <!-- Local App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
+     href="http://localhost:8501"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open App in New Tab
+    Open App (Local)
   </a>
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
+     href="https://github.com/kenyanbradshaw/todo-calendar-app"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
+    View Source Code
   </a>
 </div>
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
-        style="width:100%; height:900px; border:none;"
-        allowfullscreen>
-</iframe>
+*Note: The app is currently running locally. Screenshots and deployment options coming soon.*
 
-## Technical Details
+## Technical Architecture
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+**Framework/Stack**: Python + Streamlit + Pandas + JSON
 
-Deployment: GitHub Pages + Vercel
+**Key Technical Decisions**:
+- **Streamlit** for rapid prototyping and interactive web interface
+- **Pandas** for data manipulation and chart generation  
+- **JSON** for lightweight, human-readable data persistence
+- **Python datetime** for robust date/time handling
+- **Modular design** with separate functions for data operations
 
-Tools Used:
--   Claude Code
+**Development Process**:
+- Iterative development using Claude Code for AI-assisted programming
+- User-centered design principles for intuitive interface
+- Responsive layout supporting mobile and desktop viewing
 
-## Product Requirements Document
+## Product Development Journey
 
-Paste in the PRD that you submitted to Claude Code
+### Initial Requirements
+Starting with a simple todo list application, the product evolved through user-centered design thinking:
+
+1. **Basic todo functionality** - Add, complete, delete tasks
+2. **Enhanced with scheduling** - Due dates and calendar integration  
+3. **Advanced analytics** - Productivity insights and completion tracking
+4. **Smart filtering** - Multiple views and date-based organization
+
+### Key Product Decisions
+
+**Why Calendar Integration?**
+Research shows that visual scheduling significantly improves task completion rates. The calendar view provides immediate context about workload distribution and helps users identify potential bottlenecks.
+
+**Why Multiple View Modes?**
+Different users have different workflow preferences. The three-view approach (List, Calendar, Analytics) caters to:
+- **List View**: Traditional task management users
+- **Calendar View**: Visual planners and schedule-oriented users  
+- **Analytics**: Data-driven users seeking productivity insights
+
+**Why Local JSON Storage?**
+For an MVP and demonstration purposes, JSON provides simplicity and transparency. Users can easily backup/transfer their data, and the approach demonstrates data modeling without external dependencies.
+
+## Future Roadmap
+
+### Phase 2 Enhancements
+- **Cloud deployment** with Heroku/Railway for public access
+- **Data export** functionality (CSV, iCal integration)
+- **Recurring tasks** for habit tracking and regular commitments
+- **Task categorization** with tags and priority levels
+
+### Phase 3 Advanced Features  
+- **Team collaboration** with shared task lists
+- **Integration APIs** with Google Calendar, Outlook
+- **Mobile app** using React Native or Flutter
+- **AI-powered** task prioritization and scheduling suggestions
+
+## Lessons Learned
+
+### Product Management Insights
+- **Iterative development** allowed for rapid feature validation and user feedback integration
+- **Data-driven design** decisions improved user experience (e.g., color coding for overdue tasks)
+- **Modular architecture** enabled quick feature additions without breaking existing functionality
+
+### Technical Learning
+- **Streamlit's strengths** for rapid MVP development and interactive dashboards
+- **State management** challenges in web applications and solutions using session state
+- **Date/time handling** complexities and the importance of timezone considerations
+
+This project demonstrates the full product lifecycle from ideation through development to user testing, showcasing both technical implementation skills and product management thinking.
