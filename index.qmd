@@ -1,5 +1,5 @@
 ---
-title: "Kenyan Bradshaw - Product Management Portfolio"
+title: "Kenyan Bradshaw - Entrepreneur & Product Leader"
 ---
 
 ::: {.hero-banner .text-center}
@@ -7,61 +7,77 @@ title: "Kenyan Bradshaw - Product Management Portfolio"
 <img src="images/profile.jpg" alt="Kenyan Bradshaw" class="rounded-circle mb-3" width="160">
 
 <h1>Kenyan Bradshaw</h1>
-<p class="lead">Product Manager & Technology Enthusiast</p>
+<p class="lead">Entrepreneur | Student | Soldier | Lokality Founder</p>
+<p class="text-muted">Interested in SaaS Startups, ETA, Passive Income, Real Estate, and VC/PE</p>
 
 <a href="https://www.linkedin.com/in/kenyan-bradshaw-3342a0171" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/kenyanbradshaw" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
+<a href="mailto:kenyanjbradshaw@gmail.com" class="btn btn-outline-primary btn-sm">
+  <i class="fas fa-envelope"></i> Email
 </a>
 
 :::
 
 ## About Me
 
-I'm a passionate product manager with experience in building innovative solutions and driving strategic initiatives. I enjoy working at the intersection of technology and user experience to create products that make a meaningful impact.
+A motivated entrepreneur with proven experience launching and growing multiple businesses. I have a track record for identifying market opportunities, acquiring customers, and delivering results across diverse industries from SaaS to home services.
 
-## Featured Projects
+Currently pursuing **Entrepreneurship Management** at BYU while serving as a **Motor Transport Operator** in the Army National Guard. Military experience has instilled a strong work ethic, discipline, and leadership capabilities that drive my entrepreneurial success.
+
+## Current Ventures
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .card .m-2}
-### [Todo Calendar App](projects/project-1.qmd)
-A comprehensive task management application built with Streamlit featuring calendar integration, due date scheduling, and analytics dashboard.
+### [Lokality](projects/project-1.qmd)
+**Founder** (May 2024 - Present)  
+Revolutionizing lead generation for home service companies through automated referral systems and targeted direct mail campaigns.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .card .m-2}
-### [Product Strategy Framework](projects/project-2.qmd)
-A systematic approach to product development and strategic planning with proven methodologies and templates.
+### [Qynix Shop](projects/project-2.qmd)  
+**Owner/Investor** (Feb 2025 - Present)  
+Online storefront selling wholesale products on Amazon, Walmart, and Home Depot platforms.
 :::
 
 :::
 
-## Core Competencies
+## Core Strengths
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-**Product Strategy**
-- Market analysis & competitive intelligence
-- Product roadmap development
+**Entrepreneurship**
+- Business ownership & start-up ventures
+- Market opportunity identification
 - Strategic planning & execution
+- Start-up leadership
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-**Technical Skills**
-- Python & Streamlit development
-- Data analysis & visualization
-- Agile methodologies
+**Sales & Marketing**
+- Customer acquisition strategies
+- Digital marketing campaigns
+- Brand development
+- Business development
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-**Leadership**
-- Cross-functional team collaboration
-- Stakeholder management
+**Operations & Leadership**
+- Operations management
+- Team building & leadership
+- Military discipline & work ethic
 - Project coordination
 :::
 
 :::
+
+## Recent Achievements
+
+- **Founded Lokality**: Built innovative SaaS platform for home service lead generation
+- **400% Sales Growth**: Led marketing team at Bello Sole to achieve remarkable results in 30 days
+- **Military Service**: Currently serving as Motor Transport Operator, Army National Guard
+- **Multiple Ventures**: Successfully launched and operated diverse businesses across industries
+- **Education**: Pursuing Entrepreneurship Management degree at Brigham Young University
 

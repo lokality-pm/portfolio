@@ -7,101 +7,166 @@ title: "About Kenyan Bradshaw"
 <img src="images/profile.jpg" alt="Kenyan Bradshaw" class="rounded-circle mb-3" width="160">
 
 <h1>Kenyan Bradshaw</h1>
-<p class="lead">Product Manager & Technology Enthusiast</p>
+<p class="lead">Entrepreneur | Student | Soldier | Lokality Founder</p>
 
 <a href="https://www.linkedin.com/in/kenyan-bradshaw-3342a0171" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/kenyanbradshaw" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
+<a href="mailto:kenyanjbradshaw@gmail.com" class="btn btn-outline-primary btn-sm">
+  <i class="fas fa-envelope"></i> Email
 </a>
 
 :::
 
 ## Professional Background
 
-I'm a passionate product manager with a strong foundation in technology and user experience design. My journey combines analytical thinking with creative problem-solving to deliver products that make a meaningful impact on users' lives. I thrive in collaborative environments where I can bridge the gap between technical teams and business stakeholders.
+I'm a motivated entrepreneur with extensive experience launching and growing businesses across diverse industries. My journey spans from founding SaaS startups to operating traditional service businesses, with a proven track record for identifying market opportunities, acquiring customers, and delivering results.
 
-My approach to product management centers on data-driven decision making, user-centric design, and agile methodologies. I believe in building products that not only meet business objectives but also genuinely improve the user experience.
+Currently balancing **three key roles**: pursuing an Entrepreneurship Management degree at BYU, serving as a Motor Transport Operator in the Army National Guard, and leading multiple business ventures. This unique combination has developed my skills in strategic thinking, operational execution, and disciplined leadership.
 
-### Core Expertise
+## Current Ventures
 
-#### Product Strategy & Planning
+### Lokality - Founder (May 2024 - Present)
+**Revolutionizing Lead Generation for Home Service Companies**
+
+Founded an innovative SaaS platform that provides automated referral leads for home service contractors. Our flagship feature reimagines direct mail marketing for the digital age, helping contractors send personalized mailers to potential customers in the immediate vicinity of active worksites.
+
+**Key Achievements:**
+- Built comprehensive lead generation platform from concept to market
+- Developed hyper-local marketing approach for maximum conversion potential
+- Created automated systems for customer acquisition and campaign optimization
+- Established strategic partnerships in the home services industry
+
+### Qynix Shop - Owner/Investor (February 2025 - Present)
+**E-commerce & Wholesale Operations**
+
+Online storefront operation selling wholesale products across major platforms including Amazon, Walmart Online, and Home Depot Online. Managing multi-channel retail strategy and inventory optimization.
+
+## Military Service
+
+### Army National Guard - Motor Transport Operator (January 2022 - Present)
+**Leadership & Operational Excellence**
+
+Responsible for safe and efficient transportation of personnel, equipment, and supplies supporting various military operations. Trained in diverse military vehicles including light/heavy-duty trucks, humvees, and tactical vehicles.
+
+**Core Responsibilities:**
+- Vehicle maintenance and basic repairs
+- Pre- and post-operation inspections
+- Load securing and transportation regulation compliance
+- Mission-critical logistics coordination
+
+## Entrepreneurial Journey
+
+### Renegade Brothers - Founder (June 2023 - January 2024)
+**Service Member-Owned Lifestyle Brand**
+
+Launched premium gym supplement and apparel brand focused on empowering men with military values. Mission: "Protect. Provide. Prepare." - building a community of disciplined, resilient individuals.
+
+**Achievements:**
+- Developed brand identity and product line from scratch
+- Built community-focused marketing strategy
+- Integrated military discipline into business operations
+
+### Zon Marketing - Founder (April 2023 - July 2023)
+**Solar Lead Generation Agency**
+
+Innovative solar leads provider leveraging network of Utah summer sales agents and cutting-edge marketing strategies learned from industry leaders including Russell Brunson.
+
+**Key Learnings:**
+- Advanced Facebook advertising strategies
+- Network-based lead generation systems
+- Solar industry market dynamics
+
+### Crystal Clear Window Cleaning - Business Owner (April 2021 - August 2022)
+**Service Business Operations**
+
+Successfully started and grew window washing company serving residential clients. Gained hands-on experience in service business fundamentals including customer service, operations management, and quality control.
+
+## Professional Experience
+
+### Bello Sole - Marketing Intern Team Lead (February 2023 - April 2023)
+**High-Impact Marketing Results**
+
+Led intern team in comprehensive marketing initiatives resulting in **400% sales growth** in just 30 days.
+
+**Key Achievements:**
+- Created viral Pinterest content (best reel: 22K views)
+- Developed influencer outreach programs
+- Established Airbnb owner partnerships
+- Executed data-driven marketing strategies
+
+### Wilkinson Capital Partners - Investment Intern (February 2022 - April 2022)
+**Venture Capital Experience**
+
+Gained hands-on experience in venture capital industry working closely with founders and partners on investment research, analysis, and due diligence.
+
+**Core Activities:**
+- Investment opportunity research and analysis
+- Due diligence process participation
+- Partner meeting attendance
+- Industry networking and relationship building
+
+### Additional Experience
+- **Aura** - Data Security Consultant (Dec 2021 - Feb 2022): CFE certified, first upgrade/sales team member
+- **Homeski** - Acquisition Manager (May 2021 - Aug 2021): Managed residential property acquisition and due diligence
+- **Vivint** - Advanced Technical Support Specialist (Nov 2018 - Apr 2019): DOPL security certified
+
+## Education
+
+### Brigham Young University
+**Entrepreneurship Management** (April 2022 - December 2025)
+
+Pursuing degree focused on startup ventures, business development, and entrepreneurial leadership. Complementing practical business experience with academic foundation in strategic thinking and management principles.
+
+### Utah Valley University
+**Associate's Degree, General Studies** (2018 - April 2022)
+
+Built foundational knowledge across diverse disciplines, developing critical thinking and analytical skills that support entrepreneurial ventures.
+
+## Core Competencies
+
+**Entrepreneurship & Business Development**
+- Start-up venture creation and management
+- Market opportunity identification and validation
+- Customer acquisition and retention strategies
+- Business model development and optimization
+
+**Sales & Marketing**
+- Digital marketing campaign development
+- Social media strategy and content creation
+- Influencer partnerships and affiliate marketing
+- Lead generation system design
+
+**Operations & Leadership**
+- Team building and management
+- Process optimization and efficiency
+- Military discipline applied to business operations
+- Cross-functional collaboration
+
+**Technical & Analytical**
+- Data analysis and performance metrics
+- E-commerce platform management
+- CRM systems (Salesforce, Twilio)
 - Market research and competitive analysis
-- Product roadmap development and prioritization
-- Stakeholder alignment and communication
-- Go-to-market strategy execution
 
-#### Technical Product Management
-- Agile/Scrum methodologies
-- Technical requirements gathering
-- API design and integration planning
-- Development team collaboration
+## Certifications & Training
 
-#### Data & Analytics
-- Product metrics and KPI definition
-- User behavior analysis
-- A/B testing and experimentation
-- Performance monitoring and optimization
+- **Open Water Diver** - Recreational diving certification
+- **CFE Certified** - Through Aura data security role
+- **DOPL Security Certified** - Utah Department of Professional Licensing
+- **Advanced Technical Training** - 3-week intensive program (Vivint)
 
-### Technical Skills
+## What's Next
 
-**Programming & Development**
-- Python (Streamlit, Pandas, Data Analysis)
-- SQL for data analysis and reporting
-- API integration and testing
-- Web technologies (HTML, CSS, JavaScript basics)
+I'm focused on scaling Lokality while exploring opportunities in:
 
-**Product Management Tools**
-- Jira, Confluence, Asana for project management
-- Figma, Sketch for design collaboration
-- Google Analytics, Mixpanel for product analytics
-- Slack, Microsoft Teams for communication
+- **SaaS Product Development**: Building scalable software solutions for underserved markets
+- **Real Estate & Investment**: Leveraging entrepreneurial success for passive income generation
+- **Venture Capital/Private Equity**: Applying operational experience to investment opportunities
+- **Mentorship & Leadership**: Sharing entrepreneurial journey with aspiring business leaders
 
-**Data Analysis & Visualization**
-- Excel/Google Sheets for data manipulation
-- Tableau, Power BI for dashboard creation
-- Python libraries for data science
-- Statistical analysis and reporting
+## Let's Connect
 
-### Recent Projects
+Always interested in connecting with fellow entrepreneurs, investors, military professionals, or anyone passionate about building impactful businesses. Whether you're exploring SaaS opportunities, discussing real estate investments, or sharing entrepreneurial insights, I'd love to connect.
 
-#### Todo Calendar Application
-Led the development of a comprehensive task management system featuring:
-- Calendar integration with due date scheduling
-- Advanced filtering and categorization
-- Analytics dashboard for productivity insights
-- Built using Python and Streamlit with JSON data persistence
-
-#### Product Strategy Frameworks
-Developed systematic approaches to product planning including:
-- Market analysis templates and methodologies
-- User research and personas development
-- Competitive intelligence frameworks
-- Product-market fit assessment tools
-
-### Interests & Values
-
-**Innovation & Technology**
-I'm passionate about emerging technologies and their potential to solve real-world problems. I enjoy exploring new frameworks, tools, and methodologies that can improve product development processes.
-
-**User Experience**
-I believe that great products start with understanding user needs. I'm committed to user-centered design principles and creating intuitive, accessible experiences.
-
-**Continuous Learning**
-The product management field is constantly evolving, and I'm dedicated to staying current with industry trends, best practices, and new tools through continuous learning and professional development.
-
-### What's Next
-
-I'm seeking opportunities to contribute to innovative product teams where I can:
-
-- Lead product strategy and roadmap development for impactful products
-- Work with cross-functional teams to deliver exceptional user experiences
-- Apply data-driven methodologies to drive product growth and optimization
-- Mentor and collaborate with talented designers, engineers, and product professionals
-
-I'm particularly interested in roles that combine strategic thinking with hands-on execution, where I can make a meaningful impact on both the product and the team culture.
-
-### Let's Connect
-
-I'm always interested in connecting with fellow product professionals, potential collaborators, or anyone passionate about building great products. Feel free to reach out via LinkedIn or check out my latest projects on GitHub.
+**Contact:** kenyanjbradshaw@gmail.com | LinkedIn: /in/kenyan-bradshaw-3342a0171

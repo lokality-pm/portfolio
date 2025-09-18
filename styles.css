@@ -1,5 +1,53 @@
 /* Custom styles for portfolio website */
 
+/* Color scheme - Orange branding */
+:root {
+  --primary-color: #e26c00;
+  --primary-hover: #cc5d00;
+  --primary-light: #f7941d;
+  --primary-dark: #b85800;
+}
+
+/* Override Bootstrap primary color */
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-hover);
+  border-color: var(--primary-hover);
+}
+
+.btn-outline-primary {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: var(--primary-light);
+}
+
+/* Links and accents */
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--primary-hover);
+}
+
+/* Navigation bar background */
+.navbar {
+  background-color: var(--primary-color) !important;
+}
+
 /* Improve overall layout and spacing */
 .quarto-container {
   max-width: 1200px;
